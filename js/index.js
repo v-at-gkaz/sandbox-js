@@ -1,4 +1,4 @@
 console.log('Hello, User');
 
 
-console.log('Hello, Bash');
+console.log('Hello, Github');
