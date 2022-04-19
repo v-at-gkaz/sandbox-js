@@ -1,5 +1,6 @@
 console.log('Logical Operators');
 
+
 /*
 // OR (||)
 // ex 1
