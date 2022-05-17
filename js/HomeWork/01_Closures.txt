@@ -1,0 +1,1 @@
+Реализовать задание, описанное в файле js/examples/functions-closure-counter.js
