@@ -25,7 +25,7 @@ function drawInterface(){
     const input=document.createElement('input');
     input.setAttribute('id', 'todo-text');
     input.setAttribute('type', 'text');
-    input.setAttribute('placeholder', 'Enter yout text');
+    input.setAttribute('placeholder', 'Enter your text');
 
     const btn=document.createElement('button');
     btn.innerHTML = ' + ';
@@ -56,7 +56,6 @@ function updateList(){
     listWr.append(list);
 
     document.getElementById('todo-text').value = '';
-
 }
 
 function addToDoToList(){
@@ -81,17 +80,6 @@ function getCurrentTodos(){
     return res;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 document.onreadystatechange = () => {
 
     // console.log(document.readyState);
@@ -101,4 +89,3 @@ document.onreadystatechange = () => {
     }
     
 }
-
