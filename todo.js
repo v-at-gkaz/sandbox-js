@@ -1,8 +1,4 @@
-const todoList = [
-    'Create App',
-    'Save Result',
-    'Deploy'
-];
+const todoList = [];
 
 function main(){
     
