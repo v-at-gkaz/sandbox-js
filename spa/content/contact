@@ -1,0 +1,10 @@
+<form action="" method="post">
+            <label for="nikname">Ваше имя</label>
+            <input type="text" name="nikname" id="">
+            <br />
+            <label for="nikname">Ваше сообщение</label>
+            <br />
+            <textarea name="text" id="" cols="30" rows="10"></textarea>
+            <hr />
+            <input type="submit" value="Отправить">
+        </form>
